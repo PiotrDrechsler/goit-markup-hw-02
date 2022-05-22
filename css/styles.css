@@ -62,6 +62,7 @@ address {
   background: #f5f4fa;
   border-radius: 4px;
   line-height: 1.6;
+  font-family: inherit;
 }
 
 .button:hover {
