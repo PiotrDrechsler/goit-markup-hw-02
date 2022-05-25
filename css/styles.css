@@ -85,11 +85,12 @@ address {
 
 .link {
   color: var(--text-color3);
+  font-weight: 500;
   text-decoration: none;
 }
 
 .link:hover {
-  color: var(--text-color);
+  color: var(--brand-color);
 }
 
 .link:focus {
